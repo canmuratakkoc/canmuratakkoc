@@ -1,7 +1,3 @@
-<style>
-font-family:'Roboto';
-</style>
-
 <h1 align="center">Hi 👋, I'm Murat Can AKKOÇ</h1>
 <h3 align="center">A passionate web, mobile and desktop developer from Turkey</h3>
 
